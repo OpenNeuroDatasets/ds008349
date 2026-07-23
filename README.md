@@ -10,7 +10,7 @@ The code used to process and analyze the data is publicly available at XXX.
 
 ## Related publication
 
-XXX
+Champagne, A., Barrette, L.-È., Cyr-Bouchard, A., Roy, M., & Coll., M.-P. ([Year]). A comprehensive physiological dataset of pain and aversive modalities for pain biomarkers research. [*Journal name*], [*Volume*]([Issue]), [Page range]. [DOI or URL]
 
 ### Notes
 
