@@ -10,5 +10,6 @@
         "CIUSS-CN 2023-2487"
     ],
     "License": "CC0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds008349.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds008349.v1.0.0",
+    "Acknowledgements": "A.C. and this work were supported by graduate scholarships from the *Fonds de Recherche Québec - Nature et technologies* (332150; https://doi.org/10.69777/332150) (345974; https://doi.org/10.69777/345974), the *Natural Sciences and Engineering Research Council of Canada*, and the *Canadian Institutes of Health Research*."
 }
