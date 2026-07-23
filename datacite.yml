@@ -1,0 +1,45 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Champagne, A
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Coll, MP
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Coll LAB
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Barrette, LÈ
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+    creators:
+      - name: Champagne, A
+        nameType: Personal
+      - name: Coll, MP
+        nameType: Personal
+      - name: Coll LAB
+        nameType: Personal
+      - name: Barrette, LÈ
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
