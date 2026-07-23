@@ -10,7 +10,7 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 1
-      - name: Barrette, LÈ
+      - name: Barrette, LE
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -34,7 +34,7 @@ data:
     creators:
       - name: Champagne, A
         nameType: Personal
-      - name: Barrette, LÈ
+      - name: Barrette, LE
         nameType: Personal
       - name: Coll, MP
         nameType: Personal
