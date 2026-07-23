@@ -10,31 +10,22 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 1
-      - name: Barrette, LE
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 2
       - name: Coll, MP
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 3
+        order: 2
       - name: Coll LAB
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 4
+        order: 3
     creators:
       - name: Champagne, A
-        nameType: Personal
-      - name: Barrette, LE
         nameType: Personal
       - name: Coll, MP
         nameType: Personal
