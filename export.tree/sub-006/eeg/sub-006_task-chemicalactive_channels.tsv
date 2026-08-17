@@ -1,0 +1,67 @@
+name	type	units	reference	status	description
+Fp1	EEG	uV	FCz	good	
+Fz	EEG	uV	FCz	good	
+F3	EEG	uV	FCz	good	
+F7	EEG	uV	FCz	good	
+FT9	EEG	uV	FCz	good	
+FC5	EEG	uV	FCz	good	
+FC1	EEG	uV	FCz	good	
+C3	EEG	uV	FCz	good	
+T7	EEG	uV	FCz	good	
+TP9	EEG	uV	FCz	good	
+CP5	EEG	uV	FCz	good	
+CP1	EEG	uV	FCz	good	
+Pz	EEG	uV	FCz	good	
+P3	EEG	uV	FCz	good	
+P7	EEG	uV	FCz	good	
+O1	EEG	uV	FCz	good	
+Oz	EEG	uV	FCz	good	
+O2	EEG	uV	FCz	good	
+P4	EEG	uV	FCz	good	
+P8	EEG	uV	FCz	good	
+TP10	EEG	uV	FCz	bad	Bad channel detected by pyprep
+CP6	EEG	uV	FCz	good	
+CP2	EEG	uV	FCz	good	
+Cz	EEG	uV	FCz	good	
+C4	EEG	uV	FCz	good	
+T8	EEG	uV	FCz	good	
+FT10	EEG	uV	FCz	good	
+FC6	EEG	uV	FCz	good	
+FC2	EEG	uV	FCz	good	
+F4	EEG	uV	FCz	good	
+F8	EEG	uV	FCz	good	
+Fp2	EEG	uV	FCz	good	
+AF7	EEG	uV	FCz	good	
+AF3	EEG	uV	FCz	good	
+AFz	EEG	uV	FCz	good	
+F1	EEG	uV	FCz	good	
+F5	EEG	uV	FCz	good	
+FT7	EEG	uV	FCz	good	
+FC3	EEG	uV	FCz	good	
+C1	EEG	uV	FCz	good	
+C5	EEG	uV	FCz	good	
+TP7	EEG	uV	FCz	good	
+CP3	EEG	uV	FCz	good	
+P1	EEG	uV	FCz	good	
+P5	EEG	uV	FCz	good	
+PO7	EEG	uV	FCz	good	
+PO3	EEG	uV	FCz	good	
+POz	EEG	uV	FCz	good	
+PO4	EEG	uV	FCz	good	
+PO8	EEG	uV	FCz	good	
+P6	EEG	uV	FCz	good	
+P2	EEG	uV	FCz	good	
+CPz	EEG	uV	FCz	good	
+CP4	EEG	uV	FCz	good	
+TP8	EEG	uV	FCz	good	
+C6	EEG	uV	FCz	good	
+C2	EEG	uV	FCz	good	
+FC4	EEG	uV	FCz	good	
+FT8	EEG	uV	FCz	good	
+F6	EEG	uV	FCz	bad	Bad channel detected by pyprep
+AF8	EEG	uV	FCz	good	
+AF4	EEG	uV	FCz	good	
+F2	EEG	uV	FCz	good	
+rating	MISC	AU		good	Continuous rating (if present else == -1)
+stim	MISC	AU		good	Stimulation value (if present else == -1)
+thermode	MISC	C		good	Thermode temperature (if present else == -1)
