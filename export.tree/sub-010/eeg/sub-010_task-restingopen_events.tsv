@@ -1,0 +1,4 @@
+onset	duration	sample	trial_type	value	distance_from_previous
+0.0	0	0	res+	1	0.0
+300.002	0	300002	res-	2	300.002
+300.50399999999996	0	300503	END+	3	0.5019999999999527
