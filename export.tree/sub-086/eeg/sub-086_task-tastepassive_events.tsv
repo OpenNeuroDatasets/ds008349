@@ -1,6 +1,0 @@
-onset	duration	sample	trial_type	value	distance_from_previous
-0.0	0.0	0.0	t01/start	1.0	0.0
-60.0	0.0	60000.0	t02/minute1	2.0	60.0
-120.0	0.0	120000.0	t03/minute2	3.0	60.0
-180.0	0.0	180000.0	t04/minute3	4.0	60.0
-240.0	0.0	240000.0	t05/minute4	5.0	60.0
